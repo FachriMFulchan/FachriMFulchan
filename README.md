@@ -2,7 +2,7 @@
 - 👀 I’m interested in IOT, Computer Vision and Robot Operating System
 - 🌱 I’m currently learning at Politeknik Manufaktur Bandung, Indonesia
 - 💞️ I’m looking to collaborate on many chances that come to me
-- 📫 Just reach on Instagram @fmfulchan
+- 📫 Just reach on Instagram @fachrimfulchan or for project @fmfulchan
 
 <!---
 FachriMFulchan/FachriMFulchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
